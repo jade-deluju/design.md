@@ -168,26 +168,26 @@ components:
 
 | Token | Preview | HEX |
 | --- | --- | --- |
-| Primary | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='16'><rect rx='4' ry='4' width='28' height='16' fill='%23855300'/></svg>" alt="#855300"/> | `#855300` |
-| Primary Container | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='16'><rect rx='4' ry='4' width='28' height='16' fill='%23f59e0b'/></svg>" alt="#f59e0b"/> | `#f59e0b` |
-| Secondary | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='16'><rect rx='4' ry='4' width='28' height='16' fill='%230058be'/></svg>" alt="#0058be"/> | `#0058be` |
-| Tertiary | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='16'><rect rx='4' ry='4' width='28' height='16' fill='%2300658b'/></svg>" alt="#00658b"/> | `#00658b` |
-| Surface | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='16'><rect rx='4' ry='4' width='28' height='16' fill='%23f9f9ff'/></svg>" alt="#f9f9ff"/> | `#f9f9ff` |
-| On-Surface | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='16'><rect rx='4' ry='4' width='28' height='16' fill='%23151c27'/></svg>" alt="#151c27"/> | `#151c27` |
-| Outline | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='16'><rect rx='4' ry='4' width='28' height='16' fill='%23867461'/></svg>" alt="#867461"/> | `#867461` |
+| Primary | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='16'><rect width='28' height='16' rx='4' fill='%23855300'/></svg>" alt="#855300" /> | `#855300` |
+| Primary Container | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='16'><rect width='28' height='16' rx='4' fill='%23f59e0b'/></svg>" alt="#f59e0b" /> | `#f59e0b` |
+| Secondary | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='16'><rect width='28' height='16' rx='4' fill='%230058be'/></svg>" alt="#0058be" /> | `#0058be` |
+| Tertiary | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='16'><rect width='28' height='16' rx='4' fill='%2300658b'/></svg>" alt="#00658b" /> | `#00658b` |
+| Surface | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='16'><rect width='28' height='16' rx='4' fill='%23f9f9ff'/></svg>" alt="#f9f9ff" /> | `#f9f9ff` |
+| On-Surface | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='16'><rect width='28' height='16' rx='4' fill='%23151c27'/></svg>" alt="#151c27" /> | `#151c27` |
+| Outline | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='28' height='16'><rect width='28' height='16' rx='4' fill='%23867461'/></svg>" alt="#867461" /> | `#867461` |
 
 - **Primary:** 주요 행동, 활성 상태, 강조 요소에 사용합니다.
 - **Secondary:** 부가 정보, 신뢰를 나타내는 요소, 내비게이션 포인트에 사용합니다.
 - **Neutral:** 배경과 테두리에 사용하는 부드러운 회색 계열로, UI에 고급스러운 느낌을 더합니다.
-- **Deep Charcoal:** 높은 가독성과 안정적이고 전문적인 인상을 위해 주요 텍스트 전체에 사용합니다.
+- **Deep Charcoal:** 높은 가독성과 안정적이고 전문적인 인상을 위해 주요 텍스트 전체에 사용됩니다.
 
 ## Typography
 
 이 디자인 시스템은 부드럽고 둥근 획과 뛰어난 가독성을 지닌 **Plus Jakarta Sans**를 사용합니다. 현대적인 분위기를 유지하면서도 일반적인 기하학적 형태를 지켜, 안심하고 사용할 수 있는 인터페이스를 만듭니다.
 
 - **Headlines:** 굵은 글꼴을 사용해 명확한 계층 구조를 만들고, 사용자가 중요한 정보를 빠르게 파악할 수 있도록 합니다.
-- **Body:** 넉넉한 줄 간격을 적용해 세련되고 깔끔한 느낌을 유지합니다.
-- **Labels:** 버튼과 작은 메타데이터에 사용하며, 작은 크기에서도 쉽게 구분되도록 중간 또는 세미볼드 굵기를 사용합니다.
+- **Body:** 넉넉한 줄 간격을 적용해 세련되고 깔끔한 느낌을 유지합니다。
+- **Labels:** 버튼과 작은 메타데이터에 사용하며, 작은 크기에서도 쉽게 구분되도록 중간 또는 세미볼드 굵기를 사용합니다。
 
 ## Layout & Spacing
 
